@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: black;
+}
+.nav-logo{
+    width: 40px;
+}
+.carousel{
+    height: 100vh;
+}
+.carousel-item{
+    height: 100vh;
+}
+.about-section{
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    padding-bottom: 30px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+}
+p{
+    color: white;
+    font-weight: 300;
+}
+.icon-container{
+    background-color: rgb(0, 183, 255);
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.icon-container i{
+    font-size: 2rem;
+    color: white;
+}
+.divisor-line{
+    border: 1px solid rgba(255, 255, 255, 0.788);
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
