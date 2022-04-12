@@ -83,3 +83,6 @@ h3{
 a{
     text-decoration: none;
 }
+.footer-icons i:hover{
+    color: black;
+}
